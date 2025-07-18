@@ -125,17 +125,6 @@ function App() {
     },
     {
       id: 6,
-      title: 'Sign Language Detection Using Python',
-      description: 'Scalable API gateway with authentication, rate limiting, and comprehensive documentation.',
-      tech: ['Node.js', 'Express', 'JWT', 'Swagger', 'MongoDB'],
-      image: 'https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=600',
-      github: '#',
-      live: '#',
-      category: 'backend',
-      featured: false
-    },
-    {
-      id: 7,
       title: 'Sudoku App',
       description: 'SudokuX is a modern, interactive Sudoku web application that challenges users with puzzles of varying difficulty. It includes a timer, feedback submission, and a sleek dark-themed UI built with React and Flask.',
       tech: ['React', 'TailwindCSS', 'Flask(Python)', 'Axios'],
@@ -146,7 +135,7 @@ function App() {
       featured: false
     },
     {
-      id: 8,
+      id: 7,
       title: 'Stopwatch Web Application',
       description: 'This project is a React-based animated stopwatch app featuring lap recording, audio feedback, and CSV export. It’s fully mobile-responsive, built with Tailwind CSS, and designed with smooth UI animations for a better user experience.',
       tech: ['React', 'TailwindCSS', 'Howler.js'],
