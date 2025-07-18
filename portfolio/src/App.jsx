@@ -153,7 +153,6 @@ function App() {
       image: img7,
       github: 'https://github.com/AbishakePriyan/SCT_WD_02',
       live: 'https://stopwatch-taupe-two.vercel.app/',
-      video: '/video3.mp4',
       category: 'backend',
       featured: false
     }
