@@ -22,10 +22,8 @@ import {
   Calendar,
   MapPin,
   ChevronRight,
-  Star,
   Zap,
   Sparkles,
-  Languages,
   HardDrive
 } from 'lucide-react';
 
@@ -226,7 +224,7 @@ function App() {
     },
     {
       title: 'Web Development intern',
-      company: 'Skill carft Technology',
+      company: 'Skill craft Technology',
       location: 'Remote',
       date: 'July 2025 - Present',
       description: 'Building custom websites and web applications for small businesses and startups.',
@@ -857,9 +855,9 @@ function App() {
               
               <div className="space-y-6">
                 {[
-                  { icon: Mail, title: 'Email', value: 'alex.johnson@email.com', color: 'from-blue-400 to-cyan-400' },
+                  { icon: Mail, title: 'Email', value: 'kabishake191@email.com', color: 'from-blue-400 to-cyan-400' },
                   { icon: Github, title: 'GitHub', value: 'github.com/AbishakePriyan', color: 'from-gray-400 to-gray-600' },
-                  { icon: Linkedin, title: 'LinkedIn', value: 'linkedin.com/in/alexjohnson', color: 'from-blue-500 to-indigo-500' }
+                  { icon: Linkedin, title: 'LinkedIn', value: 'linkedin.com/in/abishake-priyan-88351a2a8', color: 'from-blue-500 to-indigo-500' }
                 ].map((contact, index) => (
                   <div key={index} className="group flex items-center gap-4 hover:transform hover:translate-x-2 transition-all duration-300">
                     <div className={`w-14 h-14 bg-gradient-to-r ${contact.color} rounded-xl flex items-center justify-center shadow-lg group-hover:shadow-xl transition-all duration-300`}>
